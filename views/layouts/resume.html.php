@@ -27,7 +27,7 @@
         </ul>
         <ul class="nav navbar-nav pull-xs-right">
             <li class="nav-item">
-                <a class="nav-link btn btn-info-outline btn-sm" target="_blank" href="https://github.com/justinjenkins/justinjenkins.net">See how I made this ...</a>
+                <a class="nav-link btn btn-info-outline btn-sm" target="_blank" href="https://github.com/justinjenkins/justinjenkins.net#justin-jenkins-dot-net">See how I made this ...</a>
             </li>
         </ul>
     </nav>
