@@ -1,0 +1,23 @@
+html {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+	font-weight: 300;
+}
+body {
+	padding-top: 5rem;
+}
+
+h2 {
+	color: #585959; font-weight: 300;
+}
+
+.wrapper {
+	padding: .5rem 1.5rem;
+}
+
+.progress-small {
+	height: .5em !important;
+}
+
+.instagram-tumb {
+	max-height: 200px; margin: 5px;
+}
