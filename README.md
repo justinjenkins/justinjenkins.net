@@ -110,6 +110,8 @@ I wanted to show my Stackoverflow profile information but was disapointed with t
 
 My custom widget brings in my score, badge counts as well the tags I've been most active on ...
 
+![](https://5f4ddb0a0d68d2e04549-84f555cc2fb0b44c7c86d4ad83213885.ssl.cf5.rackcdn.com/stackoverflow_widget.png)
+
 #### Code Example
 
 The `Stackoverflow` Model (see [source](models/Stackoverflow.php)) method `me()` brings back basic user data from the [Stack Exchange API](https://api.stackexchange.com/). 
