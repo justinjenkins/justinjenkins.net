@@ -17,17 +17,9 @@
 
     <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
         <a class="navbar-brand" href="https://justinjenkins.net">justinjenkins.net</a>
-        <ul class="nav navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link" href="#experience">Experience</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#contact">Contact</a>
-            </li>
-        </ul>
         <ul class="nav navbar-nav pull-xs-right">
             <li class="nav-item">
-                <a class="nav-link btn btn-info-outline btn-sm" target="_blank" href="https://github.com/justinjenkins/justinjenkins.net#justin-jenkins-dot-net">See how I made this ...</a>
+                <a class="nav-link btn btn-primary-outline btn-sm" target="_blank" href="https://github.com/justinjenkins/justinjenkins.net#justin-jenkins-dot-net">view source on github</a>
             </li>
         </ul>
     </nav>
