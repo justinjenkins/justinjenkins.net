@@ -114,9 +114,9 @@ My custom widget brings in my score, badge counts as well the tags I've been mos
 
 #### Code Example
 
-The `Stackoverflow` Model (see [source](models/Stackoverflow.php)) method `me()` brings back basic user data from the [Stack Exchange API](https://api.stackexchange.com/). 
+The `Stackoverflow` Model method `me()` ([source](models/Stackoverflow.php)) brings back basic user data from the [Stack Exchange API](https://api.stackexchange.com/). 
 
-This method caches the result with `memcache` for 2 hours so that rate limits are no exceeded and the page loads faster.
+This method caches the result with `memcache` for 2 hours so that rate limits are not exceeded, and the page loads faster.
 
 ```php
 	public static function me() {
