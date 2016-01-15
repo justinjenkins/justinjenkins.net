@@ -19,6 +19,8 @@
 use lithium\net\http\Router;
 use lithium\core\Environment;
 
+Router::connect('/{:controller:domaintools}', array(), function($request) { header('Location: https://justinjenkins.net/domaintools/search/'); exit; });
+
 Router::connect('/{:controller}/{:action}/{:args}');
 
 Router::connect('/{:args}', array(), function($request) { header('Location: https://justinjenkins.net/resume/'); exit; });
