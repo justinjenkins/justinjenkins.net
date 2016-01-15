@@ -3,7 +3,7 @@
 			<h4>Justin Jenkins | Web Developer</h4>
 			<p>
 				<a href="https://twitter.com/justinjenkins" class="label label-primary" target="_blank">twitter</a>
-				<a href="https://stackoverflow.com/users/296167/justin-jenkins" class="label label-warning" target="_blank">stackoverflow</a>
+				<a href="https://stackoverflow.com/users/296167/justin-jenkins?tab=profile" class="label label-warning" target="_blank">stackoverflow</a>
 				<a href="https://www.linkedin.com/in/justinajenkins" class="label label-info" target="_blank">linkedin</a>
 				<a href="https://justinjenkins.net/Justin_Jenkins_Resume.pdf" class="label label-default" target="_blank">download pdf</a>
 			</p>
