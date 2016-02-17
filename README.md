@@ -62,7 +62,7 @@ Here is an example document:
 ```
 
 ## View Elements
-The MongoDB data is brought in and formatted/outputted into html via an `element` (a partial view) [`views/elements/templates/job.html.php`](`views/elements/templates/job.html.php)
+The MongoDB data is brought in and formatted/outputted into html via an `element` (a partial view) [views/elements/templates/job.html.php](views/elements/templates/job.html.php)
 
 #### Usage
 ```php
