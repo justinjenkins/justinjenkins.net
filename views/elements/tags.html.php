@@ -22,7 +22,9 @@ $tags_extended = (object) [
 	'ffmpeg'   => (object) ['color' =>'default'],
 	'Stripe'   => (object) ['color' =>'default'],
 	'TFS'      => (object) ['color' =>'default'],
-	'Authorize.Net' => (object) ['color' =>'default'],
+	'Wordpress'        => (object) ['color' =>'default'],
+	'Authorize.Net'    => (object) ['color' =>'default'],
+	'Google Analytics' => (object) ['color' =>'default'],
 
 	'Linux'    => (object) ['color' =>'danger'],
 	'Windows'  => (object) ['color' =>'danger'],
