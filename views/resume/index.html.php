@@ -74,7 +74,7 @@
 		Does anyone really read this part of a resume? <br /><br />
 		Anyhow, some of things I like to do other than work are: cooking (ask me about my Thai chicken tacos),
 		tinkering with things the Intel Edison, Raspberry Pi or LEGOs (mostly to do silly things), playing Nintendo games (not exclusively, but often original NES cartridges),
-		traveling and taking pictures, or just hanging out with my two year old son.
+		traveling and taking pictures, or just hanging out with my <?=$this->dates->age(new \DateTime('2013-05-10'));?> year old son.
 	</p>
 	<div class="text-xs-center">
 
