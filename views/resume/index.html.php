@@ -22,7 +22,8 @@
 				<br /><br />
 				I have worked with a number of technologies over time but tend to focus on full stack web development, either as an individual contributor or on a team.
 				<br /><br />
-				The rest of the time you'll find me <a class="text-muted" href="#hobbies">cooking</a>, <a class="text-muted" data-toggle="modal" data-target="#modal-tinkering" href="#">tinkering</a> or maybe wrestling my two year old son.
+				The rest of the time you'll find me <a class="text-muted" href="#hobbies">cooking</a>, 
+				<a class="text-muted" data-toggle="modal" data-target="#modal-tinkering" href="#">tinkering</a> or maybe wrestling my <?=$this->dates->age(new \DateTime('2013-05-10'));?> year old son.
 				<br /><br />
 			</p>
 		</div>
