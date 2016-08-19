@@ -60,7 +60,7 @@
 				<span class="label label-pill label-default" title="<?=$tag->count;?> questions tagged with <?=$tag->name;?>"><?=$tag->name;?></span>
 				<?php } ?>
 			</p>
-			<p class="card-text">Top 3% overall.</p>
+			<p class="card-text">Top 2% overall.</p>
 			<a href="<?=$stackoverflow_profile->link;?>" target="_blank" class="btn btn-primary">View Profile</a>
 		</div>
 	</div>
