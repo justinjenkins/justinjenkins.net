@@ -4,7 +4,7 @@
 			<p>
 				<a href="https://twitter.com/justinjenkins" class="label label-primary" target="_blank">twitter</a>
 				<a href="https://stackoverflow.com/users/296167/justin-jenkins?tab=profile" class="label label-warning" target="_blank">stackoverflow</a>
-				<a href="https://www.linkedin.com/in/justinajenkins" class="label label-info" target="_blank">linkedin</a>
+				<a href="https://www.linkedin.com/in/thejustinjenkins" class="label label-info" target="_blank">linkedin</a>
 				<a href="https://justinjenkins.net/Justin_Jenkins_Resume.pdf" class="label label-default" target="_blank">download pdf</a>
 			</p>
 			<p><small class="text-muted">10728 Interlake Ave N, Seattle, Washington | <a href="mailto:justinjenkins@gmail.com">justinjenkins@gmail.com</a></small></p>
